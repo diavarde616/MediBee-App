@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="md_theme_primary">#2F6FED</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#DCE6FF</color>
+    <color name="md_theme_onPrimaryContainer">#00174C</color>
+    <color name="md_theme_secondary">#00A884</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_background">#F5F7FC</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#1A1D29</color>
+    <color name="md_theme_outline">#D8DDE8</color>
+    <color name="md_theme_error">#BA1A1A</color>
+    <!-- MediBee brand (home / commerce flow) -->
+    <color name="medibee_navy">#183B63</color>
+    <color name="medibee_navy_light">#2E5A8A</color>
+    <color name="medibee_bg_start">#E8F4FF</color>
+    <color name="medibee_bg_end">#FAFCFF</color>
+    <color name="medibee_yellow">#F7C531</color>
+    <color name="medibee_cream">#FFF8F0</color>
+    <color name="medibee_muted">#6D88A8</color>
+    <color name="medibee_category_bg">#E3EEF9</color>
+</resources>
